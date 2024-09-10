@@ -1,4 +1,6 @@
 # Dicee
+<img width="357" alt="Screenshot 2024-09-10 at 11 39 24 AM" src="https://github.com/user-attachments/assets/122c7d77-df71-420c-b3c6-3e7a8b916323">
+
 
 ## Our Goal
 
